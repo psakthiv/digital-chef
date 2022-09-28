@@ -31,10 +31,10 @@ const Home = () => {
                                  <div className="bg-blue border"><div className='app flex-row align-items-center'>
                                 <label htmlFor="">Select an area</label>
                                 <select className='form-select'>
-                                    <option value="Books">Books</option>
-                                    <option value="Furniture">Furniture</option>
-                                    <option value="Electronics">Electronics</option>
-                                    <option value="Mobile">Mobile</option> 
+                                    <option value="BV">Buchanan View</option>
+                                    <option value="HH">Hill Head</option>
+                                    <option value="SE">St. Enouch</option>
+                                    <option value="SP">Partick</option> 
                                 </select>           
                             </div></div><br></br>
                             <div className='app flex-row align-items-center'>

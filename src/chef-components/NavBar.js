@@ -22,9 +22,9 @@ const NavBar = (props) => {
                             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                             <Navbar.Collapse id="responsive-navbar-nav">
                             <Nav className="me-auto">
-                                <Nav.Link href="#home">Home</Nav.Link>
-                                <Nav.Link href="#features">Features</Nav.Link>
-                                <Nav.Link href="#pricing">Pricing</Nav.Link>
+                                <Nav.Link href="#Menu1">Menu1</Nav.Link>
+                                <Nav.Link href="#Menu2">Menu2</Nav.Link>
+                                <Nav.Link href="#Menu3">Menu3</Nav.Link>
                                 </Nav>
                          <Nav>
                             <Nav.Link href="#home">{props.text}</Nav.Link>
